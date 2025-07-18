@@ -22,11 +22,6 @@ limit = 300
 category = "cs.LG"
 title = "Machine Learning"
 
-[[sources]]
-limit = 300
-category = "cs.MA"
-title = "Multiagent Systems"
-
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
 highlight_author = "scripts/highlight_author.rhai"
