@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 30
-cache_url = "https://github.com/NineLivesCat/DailyArxiv/cache.json"
+cache_url = "https://ninelivescat.github.io/DailyArxiv/cache.json"
 
 [[sources]]
 limit = 300
